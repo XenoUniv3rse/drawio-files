@@ -1,22 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="X0_ej0eFDL27t5ckUI4T">
-    <mxGraphModel dx="422" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="575" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FcPAKlwMTGvNa_uXLO_C-3" parent="1" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontSize=12;align=left;fontStyle=0;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Product Owner&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Marketing&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Managers&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Legal &amp;amp; Compliance&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="133" width="133" x="490" y="214" as="geometry" />
-        </mxCell>
-        <mxCell id="FcPAKlwMTGvNa_uXLO_C-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="205" y="581" as="sourcePoint" />
-            <mxPoint x="205" y="376" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FcPAKlwMTGvNa_uXLO_C-17" connectable="0" parent="FcPAKlwMTGvNa_uXLO_C-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" value="I&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;nfluence&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.2476" as="geometry">
-            <mxPoint x="-2" y="-23" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FcPAKlwMTGvNa_uXLO_C-18" parent="1" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;fontSize=12;align=left;fontStyle=0;whiteSpace=wrap;rounded=0;" value="- IT/System Admins&lt;div&gt;- Policy Management&lt;/div&gt;" vertex="1">
           <mxGeometry height="133" width="133" x="350" y="214" as="geometry" />
